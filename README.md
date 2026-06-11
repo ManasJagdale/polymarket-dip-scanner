@@ -49,7 +49,7 @@ sitting at the bottom is still an open question.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/polymarket-dip-scanner
+git clone https://github.com/<ManasJagdale>/polymarket-dip-scanner
 cd polymarket-dip-scanner
 pip install -r requirements.txt
 ```
